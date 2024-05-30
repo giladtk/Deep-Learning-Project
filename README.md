@@ -7,5 +7,7 @@ The accompanying files document our entire process, including insights, various 
 
 
 ![Capture](https://github.com/giladtk/Deep-Learning-Project/assets/122975491/5a3d9cce-eed7-4c65-a6c4-5124f73e8358)
+
+![d34f8e94-a4fa-4a47-b343-7fc5c42bb3fa](https://github.com/giladtk/Deep-Learning-Project/assets/122975491/866d0223-5bae-4197-b272-63558b901711)
+
 ![4eccbfeb-30f9-41b9-99bb-f6ada8135be6](https://github.com/giladtk/Deep-Learning-Project/assets/122975491/0fc3fd24-fa96-45a8-ba56-237fac4817e5)
-![51bd7425-c0c7-49df-aa1c-48897a26bed9](https://github.com/giladtk/Deep-Learning-Project/assets/122975491/270f9ce5-676e-443e-a680-c6aea11dbb5b)

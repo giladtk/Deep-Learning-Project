@@ -5,8 +5,10 @@ In this project, we investigate how image permutation impacts the performance of
 
 The accompanying files document our entire process, including insights, various evaluations, and tuning procedures conducted to test the limits of performance.
 
-
+what is image premutation ?
 ![Capture](https://github.com/giladtk/Deep-Learning-Project/assets/122975491/5a3d9cce-eed7-4c65-a6c4-5124f73e8358)
+
+
 
 ![d34f8e94-a4fa-4a47-b343-7fc5c42bb3fa](https://github.com/giladtk/Deep-Learning-Project/assets/122975491/866d0223-5bae-4197-b272-63558b901711)
 
